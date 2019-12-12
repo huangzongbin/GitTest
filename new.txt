@@ -1,2 +1,2 @@
 jini
-newBranch
+newBranch master
