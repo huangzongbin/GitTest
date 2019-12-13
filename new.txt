@@ -1,3 +1,4 @@
 jini
 newBranch master
 test stach 1
+test stash 2
